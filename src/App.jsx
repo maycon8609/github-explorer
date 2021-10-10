@@ -1,4 +1,4 @@
-import './styles/global.css';
+import './styles/global.scss';
 
 export const App = () => {
    return <h1>Hello word!!</h1>
