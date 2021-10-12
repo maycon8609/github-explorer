@@ -1,6 +1,6 @@
 import { Api } from "../Api";
 
-export type IUserRepositoriesData = {
+type IUserRepositoriesData = {
    id: number,
    name: string,
    description: string,
